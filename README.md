@@ -9,8 +9,7 @@ I'm a 2nd year B.Sc. Computer Science Undergraduate Student, from Bar-Ilan Unive
 
 - 🌱 I’m currently learning operating systems and Algorithms
 - 💻 You can find my repositories [here](https://github.com/YuvalKorenfeld?tab=repositories)
-- ⚡ Fun fact 1: I speak russian
-- ⚡ Fun fact 2: I am very intersted in finance and investing
+- ⚡ Fun fact: I am very intersted in finance and investing
 
 
 ### Languages & Technical Skills
