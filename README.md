@@ -25,6 +25,7 @@ I'm a 2nd year B.Sc. Computer Science Undergraduate Student, from Bar-Ilan Unive
 
 ### Projects
 [![](https://img.shields.io/badge/-%20Multi%20threaded%20KNN%20classifier%20server-000)](https://github.com/YuvalKorenfeld/Multi-threaded-KNN-classifier-server)
+<br>
 [![](https://img.shields.io/badge/-%20Arkanoid%20-000)](https://github.com/YuvalKorenfeld/Arkanoid)
 
 
