@@ -3,7 +3,7 @@
 <br>
 
 
-I'm a 3nd year B.Sc. Computer Science Undergraduate Student, from Bar-Ilan University. 
+I'm a 3rd year B.Sc. Computer Science Undergraduate Student, from Bar-Ilan University. 
 
 
 
