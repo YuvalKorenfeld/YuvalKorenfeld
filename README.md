@@ -30,9 +30,6 @@ I'm a 2nd year B.Sc. Computer Science Undergraduate Student, from Bar-Ilan Unive
 [![](https://img.shields.io/badge/-%20Arkanoid%20-000)](https://github.com/YuvalKorenfeld/Arkanoid)
 
 
-#### Currently Reading:  
-
-<img src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81bsw6fnUiL._AC_UF1000,1000_QL80_.jpg"  width="100" height="150">
 
 ### Let's connect through:
 <a href="https://www.linkedin.com/in/yuval-korenfeld/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
