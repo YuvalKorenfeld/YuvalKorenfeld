@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuval Korenfeld</h1>
-<h3 align="center">Computer Science Student at Bar-Ilan University</h3>
+<h3 align="center">Computer Science Graduate from Bar-Ilan University</h3>
 
 - 🔭 I’m currently working on **my degree's final project**
 
