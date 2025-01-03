@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yuval Korenfeld</h1>
-<h3 align="center">Computer Science Graduate from Bar-Ilan University</h3>
+<h3 align="center">CEO and Co-Founder of ServeUp Community | B.Sc. Computer Science, Bar-Ilan University </h3>
 
-- 🔭 I’m currently working on **my degree's final project**
+- 🔭 Currently developing new features for the ServeUp community, enhancing user experience and expanding platform capabilities
 
-- 🌱 I’m currently learning **deep learning tools and libraries, such as Keras**
+- 🌱 I’m currently learning deep learning tools and libraries, such as Keras
 
-- ⚡ Fun fact **I am very intersted in finance and investing**
+- ⚡ Fun fact: I am deeply interested in blockchain technology and quantum computing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
